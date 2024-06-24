@@ -1,7 +1,6 @@
 """
 Project Name: Stock Exchange Data
 Author: Cody Behling
-Due Date: 11/01/2020
 Course: CS1400-X01
 
 My program is to read through provided file data and sort out the highest/lowest values for each company.
